@@ -27,8 +27,9 @@ This is a smart stick that assists blind people by providing five crucial featur
 <img width="313" alt="image" src="https://github.com/Elbina-Paudel/Ultrasonic-Blindstick-with-GSM-and-GPS-tracking/assets/120787628/422250c7-044c-425b-8a15-dfec50372121">
   </p>
  
-    
+    <p align="center">
 <img width="449" alt="image" src="https://github.com/Elbina-Paudel/Ultrasonic-Blindstick-with-GSM-and-GPS-tracking/assets/120787628/f6a76ba1-fbbc-4a3c-a31d-9e44b3b7d3b4">
+ </p>
 <img width="430" alt="image" src="https://github.com/Elbina-Paudel/Ultrasonic-Blindstick-with-GSM-and-GPS-tracking/assets/120787628/7fa6d401-e6fa-481e-a112-ba6818a5111d">
 
 
